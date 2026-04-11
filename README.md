@@ -4,10 +4,9 @@
 
 > "我从来不认为我是女人，我是格力的董明珠。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://github.com/Panmax/dongmingzhu-skill)
-[![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/type-.skill-orange?style=flat-square)](https://github.com/Panmax/dongmingzhu-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将董明珠的铁娘子管理风格、品质执念与自主创新精神蒸馏为 Claude Code 的思维模型，让 AI 用「格力掌门人」的视角帮你拆解问题。**
 
 </div>
@@ -91,12 +90,12 @@ dongmingzhu-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
-
 ---
 
 <div align="center">
-<sub>Built with care by <a href="https://github.com/Panmax">Panmax</a> · Inspired by 董明珠的铁娘子精神</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
