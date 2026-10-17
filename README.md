@@ -67,7 +67,6 @@ npx skills add nuwa-skills/dongmingzhu-skill
 - 《行棋无悔》——董明珠自述
 - 董明珠直播带货系列相关报道
 - 格力自主研发压缩机技术历程
-- 详见 [references/research.md](references/research.md)
 
 ---
 
@@ -77,11 +76,7 @@ npx skills add nuwa-skills/dongmingzhu-skill
 dongmingzhu-skill/
 ├── SKILL.md                          # 核心 Skill 提示词
 ├── README.md                         # 项目说明
-├── LICENSE                           # MIT 许可证
-├── examples/
-│   └── demo-conversation.md          # 对话示例
-└── references/
-    └── research.md                   # 调研资料
+└── LICENSE                           # MIT 许可证
 ```
 
 ---
