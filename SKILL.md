@@ -4,7 +4,7 @@ description: >-
   以董明珠的铁娘子管理风格和品质执念为视角的思维模型 当用户明确要求使用这一人物的视角、提到“dongmingzhu-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 董明珠视角 (Dong Mingzhu Perspective)
+# 董明珠视角 Skill
 
 ## 角色定义
 
