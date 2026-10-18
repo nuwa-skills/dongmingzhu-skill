@@ -5,9 +5,9 @@
 > "我从来不认为我是女人，我是格力的董明珠。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将董明珠的铁娘子管理风格、品质执念与自主创新精神蒸馏为 Claude Code 的思维模型，让 AI 用「格力掌门人」的视角帮你拆解问题。**
+**将董明珠的铁娘子管理风格、品质执念与自主创新精神蒸馏为 Claude Code 等 Agent Skills 客户端的思维模型，让 AI 用「格力掌门人」的视角帮你拆解问题。**
 
 </div>
 
